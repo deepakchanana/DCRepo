@@ -20,6 +20,7 @@ public class TC1 {
 	public void user_enter_the_username() throws Throwable {
 	  WebElement username=driver.findElement(By.id("email"));
 	  username.sendKeys("sdfhg");
+	  sadfghj,kawedghmj,fsdafhgm,sdfgnmdsfgnm
 	}
 
 	@When("^user enter the password$")
